@@ -1,11 +1,32 @@
-header {
-    background-color: aqua;
-}
-
 body {
-    background-color: bisque;
-}
-
-footer {
-    background-color: chartreuse;
-}
+    background-color: rgb(116, 134, 0);
+     }
+    
+    .estudante-div {
+     text-align: center;
+    padding: 50px 0;
+    
+    }
+    .estudante-titulo {
+        text-align: center;
+        padding: 16px 0;
+    }
+    .estudante-imagem {
+        width: 45%; /*cuidado com seu tamanho*/
+    
+    }
+    
+    .estudante-ícone {
+        width: 25px;
+       padding:4px 8px;
+    }
+    
+    footer {
+    background-color: rgba(0, 0, 0, 0.623);
+    }
+    
+    .rodape {
+         background-color: #000000;
+        color: rgb(115, 7, 148);
+         text-align: center;
+    }
